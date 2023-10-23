@@ -4,5 +4,6 @@
 
 */obj/*
 */bin/*
-/.vs/*
-/UpgradeLog.htm
+*/.vs/*
+/UpgradeLog*.htm
+/.vs
